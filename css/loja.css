@@ -1,0 +1,27 @@
+table {
+    width: 600px;
+    text-align: center;
+    margin-right: auto;
+    border-collapse: collapse;
+    margin-left: auto;
+    border: solid 1px black;
+}
+
+.table-title {
+    background-color: silver;
+    color: white;
+}
+
+.especie-cell {
+    font-style: italic;
+}
+
+td {
+    border: solid 1px black;   
+}
+
+body {
+    background-image: url("/imagens/desenho-loucao.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
