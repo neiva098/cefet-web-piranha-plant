@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: limegreen;
+}
+
+p {
+    text-align: justify;
+}
+
+em {
+    font-style: normal;
+    background-color: yellow;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: limegreen;
+}
+
+img {
+    width: 300px;
+    border: 8px solid limegreen;
+    margin: 0 auto;
+    display: block;
+}
+
+blockquote, q, .intl {
+    font-style: italic;
+
+}
+
+.you-know {
+    border: 3px limegreen solid;
+    padding: 10px;
+    background-image: url("/imagens/fundo.png");
+    
+}
